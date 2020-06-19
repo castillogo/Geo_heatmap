@@ -23,3 +23,5 @@ In your bash terminal, install the requirements:
 	pip install -r requirements.txt
 
 To protect your privacy: Do not push your own Location History file or the .html output file to this repository!
+
+![alt text](heatmap.png)
