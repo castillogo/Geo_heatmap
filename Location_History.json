@@ -1,0 +1,67 @@
+{
+  "locations" : [ {
+    "timestampMs" : "1354262153219",
+    "latitudeE7" : 524532680,
+    "longitudeE7" : 133859980,
+    "accuracy" : 32
+  }, {
+    "timestampMs" : "1354271661093",
+    "latitudeE7" : 524532680,
+    "longitudeE7" : 133859980,
+    "accuracy" : 32
+  }, {
+    "timestampMs" : "1354287407617",
+    "latitudeE7" : 524532680,
+    "longitudeE7" : 133859980,
+    "accuracy" : 32
+  }, {
+    "timestampMs" : "1354291299371",
+    "latitudeE7" : 524532680,
+    "longitudeE7" : 133859980,
+    "accuracy" : 62
+  }, {
+    "timestampMs" : "1354291359891",
+    "latitudeE7" : 524532680,
+    "longitudeE7" : 133859980,
+    "accuracy" : 52
+  }, {
+    "timestampMs" : "1354291420670",
+    "latitudeE7" : 525110040,
+    "longitudeE7" : 134430220,
+    "accuracy" : 52,
+    "activity" : [ {
+      "timestampMs" : "1354292158228",
+      "activity" : [ {
+        "type" : "DANCING",
+        "confidence" : 100
+      } ]
+    } ]
+  }, {
+    "timestampMs" : "1354291661872",
+    "latitudeE7" : 525110040,
+    "longitudeE7" : 134430220,
+    "accuracy" : 55
+  }, {
+    "timestampMs" : "1354291781858",
+    "latitudeE7" : 525110040,
+    "longitudeE7" : 134430220,
+    "accuracy" : 55,
+    "activity" : [ {
+      "timestampMs" : "1354292158228",
+      "activity" : [ {
+        "type" : "STILL",
+        "confidence" : 100
+      } ]
+    } ]
+  }, {
+    "timestampMs" : "1354291841972",
+    "latitudeE7" : 525161700,
+    "longitudeE7" : 133778650,
+    "accuracy" : 55
+  }, {
+    "timestampMs" : "1354291961998",
+    "latitudeE7" : 525161700,
+    "longitudeE7" : 133778650,
+    "accuracy" : 55
+  } ]
+}
