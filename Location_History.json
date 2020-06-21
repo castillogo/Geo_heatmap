@@ -25,41 +25,41 @@
     "longitudeE7" : 133859980,
     "accuracy" : 52
   }, {
-    "timestampMs" : "1354291420670",
+    "timestampMs" : "1577844444444",
     "latitudeE7" : 525110040,
     "longitudeE7" : 134430220,
     "accuracy" : 52,
     "activity" : [ {
-      "timestampMs" : "1354292158228",
+      "timestampMs" : "1577844444445",
       "activity" : [ {
         "type" : "DANCING",
         "confidence" : 100
       } ]
     } ]
   }, {
-    "timestampMs" : "1354291661872",
+    "timestampMs" : "1577844444446",
     "latitudeE7" : 525110040,
     "longitudeE7" : 134430220,
     "accuracy" : 55
   }, {
-    "timestampMs" : "1354291781858",
+    "timestampMs" : "1577844444447",
     "latitudeE7" : 525110040,
     "longitudeE7" : 134430220,
     "accuracy" : 55,
     "activity" : [ {
-      "timestampMs" : "1354292158228",
+      "timestampMs" : "1577844444448",
       "activity" : [ {
         "type" : "STILL",
         "confidence" : 100
       } ]
     } ]
   }, {
-    "timestampMs" : "1354291841972",
+    "timestampMs" : "1577844444449",
     "latitudeE7" : 525161700,
     "longitudeE7" : 133778650,
     "accuracy" : 55
   }, {
-    "timestampMs" : "1354291961998",
+    "timestampMs" : "1577844444455",
     "latitudeE7" : 525161700,
     "longitudeE7" : 133778650,
     "accuracy" : 55
