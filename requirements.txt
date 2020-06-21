@@ -1,11 +1,5 @@
 beautifulsoup4
 folium
 progressbar2
-ijson
-collections                        
-os                                
-webbrowser                       
-time
-datetime
 pandas
 
