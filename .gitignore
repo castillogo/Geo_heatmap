@@ -5,6 +5,9 @@
 geo_heatmap_jupyter_JuanCastillo.ipynb
 geo_heatmap_jupyter_JuanCastillo_runned.ipynb
 
+My_Activity.json
+geo_heatmap_Mapsearch_JuanCastillo_runned.ipynb
+
 # google location data files
 *.kml
 takeout-*.zip
