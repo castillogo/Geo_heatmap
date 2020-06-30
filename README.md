@@ -11,17 +11,23 @@ Here you can find out how to download your Google data: <https://support.google.
 Here you can download all of the data that Google has stored on you: <https://takeout.google.com/>
 Make sure you select to download your location data as a .json file!
 
+As an alternative, you can also download from <https://takeout.google.com/> under 'My Activity' your google maps search history as a .json file and use it for the Geo_heatmap
+
 
 ### 2. Create your own geo heat map 
 
 After you get your location history from google, replace the Location_History.json file with your own Location History file.
 
-Run the jupyter notebook script geoheatmap_students.ipynb
+If you want to use the 'My Activity' json maps search history file, load it into the main folder of this repository as May_Activty.json
 
 In your bash terminal, install the requirements:
 
 	pip install -r requirements.txt
 
-To protect your privacy: Do not push your own Location History file or the .html output file to this repository!
+run the jupyter notebook script geoheatmap_students.ipynb (for the location history file) or the script geo_heatmap_Mapsearch_JuanCastillo.ipynb (for the map search history file)
+
+Yor maps will be displyed and stored a .html files
+
+To protect your privacy: Do not push your own .json files or .html output files to this repository!
 
 ![alt text](heatmap.png)
