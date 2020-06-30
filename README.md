@@ -24,7 +24,7 @@ In your bash terminal, install the requirements:
 
 	pip install -r requirements.txt
 
-run the jupyter notebook script geoheatmap_students.ipynb (for the location history file) or the script geo_heatmap_Mapsearch_JuanCastillo.ipynb (for the map search history file)
+run the jupyter notebook script geoheatmap_students.ipynb (for the location history file) or the script geo_heatmap_Mapsearch.ipynb (for the map search history file)
 
 Yor maps will be displyed and stored a .html files
 
