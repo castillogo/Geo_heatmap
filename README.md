@@ -14,7 +14,7 @@ Make sure you select to download your location data as a .json file!
 As an alternative, you can also download from <https://takeout.google.com/> under 'My Activity' your google maps search history as a .json file and use it for the Geo_heatmap
 
 
-### 2. Create your own geo heat map 
+### 2. Create your own Geo_Heatmap 
 
 After you get your location history from google, replace the Location_History.json file with your own Location History file.
 
@@ -29,5 +29,20 @@ run the jupyter notebook script geoheatmap_students.ipynb (for the location hist
 Yor maps will be displyed and stored a .html files
 
 To protect your privacy: Do not push your own .json files or .html output files to this repository!
+
+### 3. Host your Geo_Heatmap as a website on GitHub
+
+Create an empty repository on Github and clone it
+
+Rename your resulting map html file index.html and save it in the repository
+
+Push the changed repository to Github
+
+On the Settings page of your GitHub respository go to 'GitHub pages'
+
+Choose 'master branch' as the source and 'Cayman' as the theme
+
+Your map will then be available as a website as https://{your GitHub user name}.github.io/{your repository name}/ 
+
 
 ![alt text](heatmap.png)
