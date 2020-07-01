@@ -45,4 +45,12 @@ Choose 'master branch' as the source and 'Cayman' as the theme
 Your map will then be available as a website as https://{your GitHub user name}.github.io/{your repository name}/ 
 
 
+### Example for a location history Geo_heatmap
 ![alt text](heatmap.png)
+
+### Example for a world search history Geo_heatmap
+![alt text](world_search_history_map.png)
+
+### Zoomed in example for a search history Geo_heatmap
+![alt text](Berlin_search_history_map.png)
+
