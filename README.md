@@ -18,7 +18,7 @@ As an alternative, you can also download from <https://takeout.google.com/> unde
 
 After you get your location history from google, replace the Location_History.json file with your own Location History file.
 
-If you want to use the 'My Activity' json maps search history file, load it into the main folder of this repository as My_Activty.json
+If you want to use the 'My Activity' json maps search history file, load it into the main folder of this repository as My_Activity.json
 
 In your bash terminal, install the requirements:
 
