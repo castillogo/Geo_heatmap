@@ -1,7 +1,8 @@
 # Geo_heatmap
 
 This is a repository for teaching data science students how to get the location data from google and use it to make a geo heatmap with folium.
-This repository is a simplifyed student-friendly version of the repository created by luka1199 https://github.com/luka1199/geo-heatmap with some added gimnicks ;-) 
+This repository is a simplifyed student-friendly version of the repository created by luka1199 https://github.com/luka1199/geo-heatmap 
+with some added gimnicks ;-)
 (Including a new script for handling google maps search history files)
 
 You need Python 3.8 or higher and jupyter notebook for this repository
