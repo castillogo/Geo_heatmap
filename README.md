@@ -28,7 +28,7 @@ In your bash terminal, install the requirements:
 
 run the jupyter notebook script geoheatmap_students.ipynb (for the location history file) or the script geo_heatmap_Mapsearch.ipynb (for the map search history file)
 
-Yor maps will be displyed and stored a .html files
+Yor maps will be displyed and stored as .html files
 
 To protect your privacy: Do not push your own .json files or .html output files to this repository!
 
